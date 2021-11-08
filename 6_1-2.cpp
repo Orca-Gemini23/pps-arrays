@@ -6,8 +6,6 @@ int main(){
 
     cout << arr[80] << endl;
     return 0;
-
-    // No mr moron here if the base address is 1000
     // then at 1 it is 1004 and 1008, 1012, 1016, 1020;;
 
 }
